@@ -1,5 +1,5 @@
 # Presence_service
-A presence service using Html, javascript and jsp
+A presence service using Html, javascript,css and jsp
 
 The user first register using their gmail account and avatar they want for their profile. After getting registered, the user has to login with the username and the password provided.
 
