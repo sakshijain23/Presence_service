@@ -15,7 +15,10 @@ First File is index.html and on the basis of the actions performed it navigates 
 It checks whether the username and password passed while login is coorect or not and creates an entry in the user_login database.
 
 # ValidateRegisterForm.jsp
-It validates the fields present in the register form and then fills a entry into Login_data.
+It validates the fields present in the register form and then fills an entry into Login_data.
+
+# Home.jsp
+It displays all the users logged in along with their avatar and timestamp.
 
 
 
