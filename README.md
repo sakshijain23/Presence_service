@@ -11,9 +11,11 @@ Total 4 files are created using jsp, javascript, html and css technology.
 Remote mysql phpmyadmin database is used for storing and the database created are - User_login and Login_data.
 First File is index.html and on the basis of the actions performed it navigates to other files. 
 
-ValidateUser.jsp- it checks whether the username and password passed while login is coorect or not and creates an entry in the user_login database.
+# ValidateUser.jsp
+It checks whether the username and password passed while login is coorect or not and creates an entry in the user_login database.
 
-ValidateRegisterForm.jsp- it validates the fields present in the register form and then fills a entry into Login_data.
+# ValidateRegisterForm.jsp
+It validates the fields present in the register form and then fills a entry into Login_data.
 
 
 
